@@ -1,0 +1,13 @@
+# Build artifacts
+_site/
+.jekyll-cache/
+.sass-cache/
+Gemfile.lock
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
